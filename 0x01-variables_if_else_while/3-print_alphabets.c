@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 /**
- * main : Entry point of all functions
- *
- * Description: print alphabets in lower cases usis char
+ * main : Entry point
  *
  * Return: Always 0 (succes)
  */
@@ -21,7 +19,7 @@ int main(void)
 	{
 		putchar(d);
 	}
-	
+
 		putchar('\n');
 	return (0);
 }

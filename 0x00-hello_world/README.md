@@ -2,3 +2,5 @@ This is a directory for basic low level programming
 4-puts.c: A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 5-printf.c: a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
 0-preprocessor: a script that runs a C file through the preprocessor and save the result into another file.
+1-compiler:  a script that compiles a C file but does not link.
+2-assembler: a script that generates the assembly code of a C code and save it in an output file.

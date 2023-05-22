@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - main function
+ * main - Entry point
  *
- * return: Always 0 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
@@ -11,9 +11,10 @@ int main(void)
 	int c;
 
 	for (c = 'a'; c <= 'z'; c++)
-
+	{
 		if (c != 'q' && c != 'e')
-		putchar('c');
+		putchar(c);
+	}
 		putchar('\n');
 
 	return (0);

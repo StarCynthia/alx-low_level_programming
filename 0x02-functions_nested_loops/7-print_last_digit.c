@@ -2,6 +2,7 @@
 
 /**
  * print_last_digit - a function that prints the last digit of a number
+ * @l: parameter that prints last digit
  *
  * Return: the lask digit
  */
